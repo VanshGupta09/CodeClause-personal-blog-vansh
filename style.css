@@ -614,7 +614,9 @@ footer .copyright span:hover {
 .blog1 .logo i:hover {
     color: #7ab730;
 }
-
+.blog-header{
+    background-color: #cccccc;
+}
 /* responsive */
 
 @media (max-width:700px) {
